@@ -4,7 +4,7 @@ A client-side task management application built with vanilla JavaScript that all
 
 ![Project Screenshot or GIF]
 <img width="1230" height="833" alt="Image" src="https://github.com/user-attachments/assets/f4f2ab82-631e-4254-aff7-1af1b5815ff7" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f8d41273-c8f7-4e1c-8253-71fa57c05977" />
+<img width="1913" height="932" alt="Image" src="https://github.com/user-attachments/assets/c7f801c0-27de-4fc5-b9fa-4f599f9a6cc4" />
 
 ## Description
 
